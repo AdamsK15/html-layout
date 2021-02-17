@@ -1,0 +1,47 @@
+.color1 {
+    width: 1519.2px;
+    height: 100px;
+    margin-left: -8px;
+    padding-right: 8px;
+    margin-top: -8px;
+    background-color: cadetblue;
+}
+.small-square {
+    width: 50px;
+    height: 50px;
+    margin-left: 20px;
+    background-color: rgb(147, 106, 187);
+}
+.text-window {
+    width: 1519.2px;
+    height: 200px;
+    background-color: white;
+}
+.color2 {
+    width: 1519.2px;
+    height: 100px;
+    margin-left: -8px;
+    padding-right: 8px;
+    background-color: slateblue;
+}
+.color3 {
+    width: 1519.2px;
+    height: 100px;
+    margin-left: -8px;
+    padding-right: 8px;
+    background-color: rosybrown;
+}
+.color4 {
+    width: 1519.2px;
+    height: 100px;
+    margin-left: -8px;
+    padding-right: 8px;
+    background-color: sandybrown;
+}
+.color5 {
+    width: 1519.2px;
+    height: 100px;
+    margin-left: -8px;
+    padding-right: 8px;
+    background-color: lime;
+}

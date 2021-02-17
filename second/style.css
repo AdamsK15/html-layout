@@ -1,0 +1,73 @@
+.body {
+    margin: 0;
+    width: 100%;
+    height: auto;
+}
+
+.Shapes {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 15px;
+    padding-top: 14.8px;
+    padding-left: 12px;
+    width: 98%;
+    height: 30vh;
+    background-color: white;
+    border: 5px solid black;
+    box-sizing: border-box;
+}
+
+.Rectangle {
+    width: 7vh;
+    height: 20vh;
+    background-color: rgb(195, 0, 255);
+    display: inline-block;
+}
+
+.BigRect {
+    width: 50vh;
+    height: 25vh;
+    margin-left: 50px;
+    background-color: green;
+    display: inline-block;
+}
+
+.Circle {
+    width: 25vh;
+    height: 25vh;
+    margin-left: 60px;
+    border-radius: 50%;
+    background-color: rgba(80, 150, 255, 0.678);
+    display: inline-block;
+}
+
+.Dotted {
+    width: 98%;
+    height: 300px;
+    margin-left: 15px;
+    border: 5px dotted black;
+    box-sizing: border-box;
+}
+.Floaty {
+    margin: auto;
+    margin-top: 50px;
+    width: 90%;
+    height: 65%;
+    background-color: blanchedalmond;
+    -webkit-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
+    -moz-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
+    box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
+}
+
+.Friend-Box {
+    margin-left: 380px;
+    margin-right: 380px;
+    margin-top: 25px;
+    margin-bottom: 50px;
+    padding: 100px;
+    text-align: center;
+    letter-spacing: 10px;
+    color: rgb(4, 4, 110);
+    background-position: center;
+    border: 1px solid black ;
+}
